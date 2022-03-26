@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "É um projeto teste referente ao modulo de expresss do curso de nodeJS do Matheus Battisti",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon ./index.mjs localhost 3000"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
