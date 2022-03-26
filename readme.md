@@ -1,12 +1,15 @@
-# Introdução ao express
+<h1 id="introducao" style="text-align:center;"> Introdução ao express </h1>
+
+<div style="text-align:center;">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Gabriel4420/introducao-ao-express?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Gabriel4420/introducao-ao-express?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Gabriel4420/introducao-ao-express?style=for-the-badge)
 
+</div>
 <img src="https://miro.medium.com/max/365/0*JSnLvAWiph-GRILo.png" alt="exemplo imagem">
 
-Este é um projeto de estudo relacionado ao curso de nodeJS do Zero a maestria, que visa o entendimento do framework express, muito relacionado a criação de apis.
+Este é um projeto de estudo relacionado ao curso de nodeJS do Zero a maestria, que visa o entendimento do framework express, muito relacionado a criação de api's.
 
 ## 💻 Pré-requisitos
 
@@ -65,4 +68,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#Introdução ao express)<br>
+[⬆ Voltar ao topo](#introducao)<br>
