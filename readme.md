@@ -1,4 +1,4 @@
-<h1 id="introducao" style="text-align:center;"> Introdução ao express </h1>
+<h1 id="introducao" style="text-align:center !important;"> Introdução ao express </h1>
 
 <div style="text-align:center;">
 
